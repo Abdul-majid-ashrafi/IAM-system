@@ -6,8 +6,8 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd iam-system
+git clone https://github.com/Abdul-majid-ashrafi/IAM-system.git
+cd IAM-system
 ```
 
 ### 2. Start the Backend
