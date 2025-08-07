@@ -27,8 +27,17 @@ Username: admin
 Password: admin123
 ```
 
-> 🧠 Note: The backend uses a file-based SQLite database (`iam.db`).  
+> 🧠 Note: The backend uses a file-based SQLite database (`iam.db`). 
+
 > You can delete this file to reset all data.
+
+> Make sure you have Node.js v20.14.1 installed.
+
+> Install nodemon globally if not already installed:
+
+```
+npm install -g nodemon
+```
 
 ---
 
